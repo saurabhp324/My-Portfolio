@@ -20,8 +20,8 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 
 ## Live Demo
 
-(Add your deployed portfolio link here)
+https://saurabhp324.github.io/My-Portfolio/
 
 ## GitHub Repository
 
-(Add your repository link here)
+https://github.com/saurabhp324/My-Portfolio
